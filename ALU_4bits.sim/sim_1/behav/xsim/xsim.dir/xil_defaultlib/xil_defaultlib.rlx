@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Vivado project/ALU_4bits/ALU_4bits.sim/sim_1/behav/xsim/glbl.v,1507081072,verilog,,,,glbl,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sim_1/new/ALU_4bits_tb.sv,1619435165,systemVerilog,,,,ALU_4bits_tb,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/imports/DLC/ALU_4bits.sv,1619361349,systemVerilog,,,,ALU_4bits,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/imports/DLC/x7seg_d_port.sv,1617953185,systemVerilog,,D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/imports/DLC/ALU_4bits.sv,,x7seg_d,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/new/alu.sv,1619360719,systemVerilog,,D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/new/fulladder.sv,,alu,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/new/fulladder.sv,1619350404,systemVerilog,,D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/new/rca.sv,,fulladder,,,,,,,,
+D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sources_1/new/rca.sv,1619436510,systemVerilog,,D:/Vivado project/ALU_4bits/ALU_4bits.srcs/sim_1/new/ALU_4bits_tb.sv,,rca,,,,,,,,
